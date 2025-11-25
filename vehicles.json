@@ -1,0 +1,510 @@
+[
+  {
+    "name": "Chevlon Corbeta 1M Edition 2014",
+    "selector": "civ",
+    "cost": 0
+  },
+  {
+    "name": "Pea Car 2025",
+    "selector": "civ",
+    "cost": 86900
+  },
+  {
+    "name": "Falcon Coupe Hotrod 1934",
+    "selector": "civ",
+    "cost": 28900
+  },
+  {
+    "name": "Falcon Advance 100 Holiday Edition 1956",
+    "selector": "civ",
+    "cost": 25000
+  },
+  {
+    "name": "Chevlon Antelope 1994",
+    "selector": "civ",
+    "cost": 0
+  },
+  {
+    "name": "Stuttgart Executive 2021",
+    "selector": "civ",
+    "cost": 0
+  },
+  {
+    "name": "Bullhorn Foreman 1988",
+    "selector": "civ",
+    "cost": 0
+  },
+  {
+    "name": "Chevlon Amigo LZR 2016",
+    "selector": "civ",
+    "cost": 0
+  },
+  {
+    "name": "Leland Birchwood Hearse 1995",
+    "selector": "civ",
+    "cost": 0
+  },
+  {
+    "name": "Lawn Mower",
+    "selector": "civ",
+    "cost": 2900
+  },
+  {
+    "name": "Chevlon Camion 2002",
+    "selector": "civ",
+    "cost": 8900
+  },
+  {
+    "name": "Overland Apache 1995",
+    "selector": "civ",
+    "cost": 9950
+  },
+  {
+    "name": "Chevlon Captain 2009",
+    "selector": "civ",
+    "cost": 11850
+  },
+  {
+    "name": "Falcon Traveller 2003",
+    "selector": "civ",
+    "cost": 12500
+  },
+  {
+    "name": "4-Wheeler",
+    "selector": "civ",
+    "cost": 13500
+  },
+  {
+    "name": "Vellfire Evertt 1995",
+    "selector": "civ",
+    "cost": 14500
+  },
+  {
+    "name": "Chevlon L/15 1981",
+    "selector": "civ",
+    "cost": 16700
+  },
+  {
+    "name": "Vellfire Prima 2009",
+    "selector": "civ",
+    "cost": 17850
+  },
+  {
+    "name": "Elysion Slick 2014",
+    "selector": "civ",
+    "cost": 19000
+  },
+  {
+    "name": "Chevlon Landslide 2007",
+    "selector": "civ",
+    "cost": 19500
+  },
+  {
+    "name": "Chevlon Inferno 1981",
+    "selector": "civ",
+    "cost": 19975
+  },
+  {
+    "name": "Navara Imperium 2020",
+    "selector": "civ",
+    "cost": 22500
+  },
+  {
+    "name": "Chevlon L/35 Extended 1981",
+    "selector": "civ",
+    "cost": 24900
+  },
+  {
+    "name": "Chevlon Commuter Van 2006",
+    "selector": "civ",
+    "cost": 25000
+  },
+  {
+    "name": "Leland LTS 2010",
+    "selector": "civ",
+    "cost": 27500
+  },
+  {
+    "name": "Chevlon Camion 2008",
+    "selector": "civ",
+    "cost": 28050
+  },
+  {
+    "name": "Chevlon Corbeta C2 1967",
+    "selector": "civ",
+    "cost": 29000
+  },
+  {
+    "name": "Bullhorn BH15 2009",
+    "selector": "civ",
+    "cost": 30500
+  },
+  {
+    "name": "Sentinel Platinum 1968",
+    "selector": "civ",
+    "cost": 32450
+  },
+  {
+    "name": "Chevlon Camion 2018",
+    "selector": "civ",
+    "cost": 34500
+  },
+  {
+    "name": "Vellfire Runabout 1984",
+    "selector": "civ",
+    "cost": 39000
+  },
+  {
+    "name": "Falcon Scavenger 2016",
+    "selector": "civ",
+    "cost": 39700
+  },
+  {
+    "name": "Chevlon Revver 2005",
+    "selector": "civ",
+    "cost": 40000
+  },
+  {
+    "name": "Overland Apache 2011",
+    "selector": "civ",
+    "cost": 42000
+  },
+  {
+    "name": "Overland Buckaroo 2018",
+    "selector": "civ",
+    "cost": 42700
+  },
+  {
+    "name": "Chryslus Champion 2005",
+    "selector": "civ",
+    "cost": 43000
+  },
+  {
+    "name": "Vellfire Riptide 2020",
+    "selector": "civ",
+    "cost": 45200
+  },
+  {
+    "name": "Bullhorn Prancer 2011",
+    "selector": "civ",
+    "cost": 45990
+  },
+  {
+    "name": "Navara Boundary 2022",
+    "selector": "civ",
+    "cost": 45990
+  },
+  {
+    "name": "Celestial Type-6 2023",
+    "selector": "civ",
+    "cost": 46780
+  },
+  {
+    "name": "Arrow Phoenix Nationals 1977",
+    "selector": "civ",
+    "cost": 47000
+  },
+  {
+    "name": "Bullhorn Prancer 2015",
+    "selector": "civ",
+    "cost": 48500
+  },
+  {
+    "name": "Bullhorn Prancer 1969",
+    "selector": "civ",
+    "cost": 48500
+  },
+  {
+    "name": "Bullhorn Determinator 2008",
+    "selector": "civ",
+    "cost": 49000
+  },
+  {
+    "name": "Chevlon Camion 2021",
+    "selector": "civ",
+    "cost": 49500
+  },
+  {
+    "name": "Falcon Stallion 350 1969",
+    "selector": "civ",
+    "cost": 50666
+  },
+  {
+    "name": "Falcon eStallion 2024",
+    "selector": "civ",
+    "cost": 51000
+  },
+  {
+    "name": "Chevlon Amigo Sport 2016",
+    "selector": "civ",
+    "cost": 55250
+  },
+  {
+    "name": "Chevlon Amigo LZR 2011",
+    "selector": "civ",
+    "cost": 58500
+  },
+  {
+    "name": "Chevlon Platoro 2019",
+    "selector": "civ",
+    "cost": 59000
+  },
+  {
+    "name": "Vellfire Prairie 2022",
+    "selector": "civ",
+    "cost": 60000
+  },
+  {
+    "name": "Falcon Rampage Bigfoot 2-Door 2021",
+    "selector": "civ",
+    "cost": 65000
+  },
+  {
+    "name": "Averon Anodic 2024",
+    "selector": "civ",
+    "cost": 69990
+  },
+  {
+    "name": "Bullhorn Pueblo 2018",
+    "selector": "civ",
+    "cost": 79500
+  },
+  {
+    "name": "Overland Apache SFP 2020",
+    "selector": "civ",
+    "cost": 92000
+  },
+  {
+    "name": "Chevlon Corbeta X08 2014",
+    "selector": "civ",
+    "cost": 96000
+  },
+  {
+    "name": "Bullhorn Determinator SFP Fury 2022",
+    "selector": "civ",
+    "cost": 99500
+  },
+  {
+    "name": "Bullhorn Prancer Widebody 2020",
+    "selector": "civ",
+    "cost": 105000
+  },
+  {
+    "name": "Leland Vault 2020",
+    "selector": "civ",
+    "cost": 124900
+  },
+  {
+    "name": "Bullhorn Determinator SFP Blackjack Widebody 2022",
+    "selector": "civ",
+    "cost": 124999
+  },
+  {
+    "name": "Falcon Rampage Beast 2021",
+    "selector": "civ",
+    "cost": 129500
+  },
+  {
+    "name": "Averon S5 2010",
+    "selector": "civ",
+    "cost": 132795
+  },
+  {
+    "name": "Falcon Stallion 350 2015",
+    "selector": "civ",
+    "cost": 139000
+  },
+  {
+    "name": "Ferdinand Jalapeno Turbo 2022",
+    "selector": "civ",
+    "cost": 145000
+  },
+  {
+    "name": "BKM Munich 2020",
+    "selector": "civ",
+    "cost": 156000
+  },
+  {
+    "name": "Terrain Traveller 2022",
+    "selector": "civ",
+    "cost": 159000
+  },
+  {
+    "name": "Stuttgart Vierturig 2021",
+    "selector": "civ",
+    "cost": 162000
+  },
+  {
+    "name": "BKM Risen Roadster 2020",
+    "selector": "civ",
+    "cost": 164295
+  },
+  {
+    "name": "Averon RS3 2020",
+    "selector": "civ",
+    "cost": 169000
+  },
+  {
+    "name": "Celestial Truckatron 2024",
+    "selector": "civ",
+    "cost": 179950
+  },
+  {
+    "name": "Averon Q8 2022",
+    "selector": "civ",
+    "cost": 190000
+  },
+  {
+    "name": "Navara Horizon 2013",
+    "selector": "civ",
+    "cost": 198500
+  },
+  {
+    "name": "Vellfire Pioneer 2019",
+    "selector": "civ",
+    "cost": 199820
+  },
+  {
+    "name": "Stuttgart Landschaft 2022",
+    "selector": "civ",
+    "cost": 249000
+  },
+  {
+    "name": "Leland LTS5-V Blackwing 2023",
+    "selector": "civ",
+    "cost": 255000
+  },
+  {
+    "name": "Chevlon Corbeta RZR 2014",
+    "selector": "civ",
+    "cost": 350000
+  },
+  {
+    "name": "Chevlon Corbeta 8 2023",
+    "selector": "civ",
+    "cost": 410000
+  },
+  {
+    "name": "Takeo Experience 2021",
+    "selector": "civ",
+    "cost": 475000
+  },
+  {
+    "name": "Falcon Heritage 2021",
+    "selector": "civ",
+    "cost": 620500
+  },
+  {
+    "name": "Averon R8 2017",
+    "selector": "civ",
+    "cost": 650000
+  },
+  {
+    "name": "Surrey 650S 2016",
+    "selector": "civ",
+    "cost": 890000
+  },
+  {
+    "name": "Strugatti Ettore 2020",
+    "selector": "civ",
+    "cost": 1500000
+  },
+  {
+    
+    
+    
+    
+    
+    
+  },
+  {
+    "name": "Falcon Scavenger Taxi 2020",
+    "selector": "job",
+    "cost": 19000
+  },
+  {
+    "name": "Leland Limo 2018",
+    "selector": "job",
+    "cost": 95000
+  },
+  {
+    "name": "Shuttle Bus",
+    "selector": "job",
+    "cost": 87000
+  },
+  {
+    "name": "Metro Transit Bus",
+    "selector": "job",
+    "cost": 394000
+  },
+  {
+    "name": "Farm Tractor 5100M",
+    "selector": "job",
+    "cost": 35000
+  },
+  {
+    "name": "Mail Truck",
+    "selector": "job",
+    "cost": 18000
+  },
+  {
+    "name": "Mail Van",
+    "selector": "job",
+    "cost": 65000
+  },
+  {
+    "name": "Fuel Tanker",
+    "selector": "job",
+    "cost": 55000
+  },
+  {
+    "name": "Chevlon News Van 2006",
+    "selector": "job",
+    "cost": 31000
+  },
+  {
+    "name": "Garbage Truck",
+    "selector": "job",
+    "cost": 47900
+  },
+  {
+    "name": "Front-Loader Garbage Truck",
+    "selector": "job",
+    "cost": 79000
+  },
+  {
+    "name": "Three Guys Food Truck",
+    "selector": "job",
+    "cost": 59900
+  },
+  {
+    "name": "La Mesa Food Truck",
+    "selector": "job",
+    "cost": 59900
+  },
+  {
+    "name": "Falcon Scavenger Security 2013",
+    "selector": "job",
+    "cost": 15000
+  },
+  {
+    "name": "Bank Truck",
+    "selector": "job",
+    "cost": 47000
+  },
+  {
+    "name": "Front Loader Tractor",
+    "selector": "job",
+    "cost": 65000
+  },
+  {
+    "name": "Dump Truck",
+    "selector": "job",
+    "cost": 65000
+  },
+  {
+    "name": "Forklift",
+    "selector": "job",
+    "cost": 65000
+  }
+]
